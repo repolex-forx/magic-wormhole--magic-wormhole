@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/magic-wormhole/magic-wormhole/commit/cfa275f575ddc009ce42fcb3bac5382df2698f1e",
       "git:hexsha": "cfa275f575ddc009ce42fcb3bac5382df2698f1e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T12:07:46.577329+00:00"
     },
     {
       "@id": "https://repolex.ai/r/magic-wormhole/magic-wormhole/commit/c9e0246266c63902ea2b01a80a6402f0aafbca1e",
