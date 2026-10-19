@@ -1,0 +1,11 @@
+{
+  "org": "magic-wormhole",
+  "repo": "magic-wormhole",
+  "versions": [
+    {
+      "commit": "cfa275f575ddc009ce42fcb3bac5382df2698f1e",
+      "tag": "",
+      "parsed_at": "2026-10-19T12:07:46.578010+00:00"
+    }
+  ]
+}
